@@ -1,4 +1,4 @@
-# meetup_pythonelastic
+# MeetUp Analytics & Python
 Charla "implementación de un buscador de documentos"
 
 En este github se encuentra la presentación realizada en el meetup Analytics & Python, miércoles 1 de septiembre 2021.
